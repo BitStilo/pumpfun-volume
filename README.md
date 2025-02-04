@@ -91,7 +91,7 @@ Get **instant CSVs** with **ALL the data you need** on any token.
 The cost? **0.001 SOL per CSV.**  
 Why? VPS and Node costs don’t pay themselves. Maybe it’ll be free one day, but for now, it’s a steal.  
 
-Find me on Telegram: **[pumpcsv_bot](https://t.me/pumpcsv_bot)**  
+Find me on Telegram: **[peachtreemall](https://t.me/peachtreemall)**  
 
 Get the edge you’ve been missing. Find profitable wallets. See through the noise.  
 
